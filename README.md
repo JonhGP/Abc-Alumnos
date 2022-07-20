@@ -6,13 +6,13 @@ de una forma mas visual.
 
 Nuestro arbol directorio de proyecto esta compuesto de las siguiente manera:
 
-├───-EJEMPLO-ABC-ALUMNOS
-├───<DIR>componentes
-├───<DIR>dependencias
-├───<DIR>javascript
-├───<DIR>php
-└───<DIR>SQL
-└───index.php
+-EJEMPLO-ABC-ALUMNOS
+<DIR>componentes
+<DIR>dependencias
+<DIR>javascript
+<DIR>php
+<DIR>SQL
+index.php
 
 COMPONENTES
 Desglosando en "<DIR>componentes" encontraremos un phgp que contiene la estructura de la tabla llamado "tabla.php" que se mostrara en index.php si bien existe varias maneras 
